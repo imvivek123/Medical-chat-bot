@@ -138,9 +138,7 @@ Store vectors in Pinecone
 python app.py
 
 
-Open browser:
 
-http://127.0.0.1:5000
 
 🧪 Example Query
 
@@ -180,7 +178,7 @@ Advanced UI with React
 👨‍💻 Author
 
 Vishwendra Pratap Singh
-B.Tech (Chemical Engineering) + Minor in AI
+B.Tech (Chemical Engineering) 
 IIT Jodhpur
 
 🔗 GitHub: https://github.com/imvivek123
